@@ -1,0 +1,15 @@
+.chatbot__message {
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .chatbot__message--bot {
+    background-color: #f5f5f5; /* gray background */
+  }
+  
+  .chatbot__message--user {
+    background-color: #cce6ff; /* blue background */
+  }
+  
